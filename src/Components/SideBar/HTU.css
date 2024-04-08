@@ -1,0 +1,46 @@
+.container {
+    height: 100vw;
+    width: 100%;
+    /* background-color: black; */
+}
+.container1{
+    margin-top: 30px;
+    display: flex;
+    margin-bottom: 50px;
+}
+.container11{
+    margin-left : 40vh;
+    margin-right: 20vh;
+}
+.container21{
+    margin-left : 40vh;
+    margin-right: 20vh;
+}
+.container2{
+    display: flex;
+}
+.img{
+    height: 12vw;
+    width: 100%;
+
+}
+.video{
+    height: 35vw;
+    width: 60%;
+    display: relative;
+    justify-content: center;
+    margin-left: 40vh;
+    margin-top: 15vh;
+    align-items: center;
+    background-color:purple;
+}
+.video img{
+    height: 100%;
+    width: 100%;
+    
+}
+.video video{
+    height: 100%;
+    width: 100%;
+
+}
